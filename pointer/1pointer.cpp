@@ -55,5 +55,7 @@ main(){
 
     p2 = new int;
     cout<<endl<<p2;
+    *p2 = 300;
+    cout<<endl<<*p2;
    
 }
