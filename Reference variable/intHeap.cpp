@@ -9,5 +9,5 @@ main() {
 
      cout<< "value :: "<< *i << endl << "address :: "<< &i << endl;
      
-     delete i;
+     delete i; // we must need to delete;
 }
